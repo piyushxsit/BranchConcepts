@@ -1,0 +1,1 @@
+The concept of branching is generally used for making changes to the main branch wherein a user makes changes by forking the main branch and make changes and creates a pull request which is then merged by the admin. 
